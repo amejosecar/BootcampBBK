@@ -1,0 +1,8 @@
+ import random
+
+# Obtener una palabra al azar
+palabra_aleatoria = random.choice(palabras)
+lista_palabra_aleatoria = list(palabra_aleatoria)
+
+print("La palabra aleatoria es:", palabra_aleatoria)
+print("La palabra aleatoria separada es:", lista_palabra_aleatoria)
