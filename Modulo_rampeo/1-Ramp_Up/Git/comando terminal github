@@ -1,0 +1,10 @@
+como subir por via terminal
+
+git add
+ si es todos git add .
+
+empaqueto
+git commit -m "comentario"
+
+sync/push
+git push
