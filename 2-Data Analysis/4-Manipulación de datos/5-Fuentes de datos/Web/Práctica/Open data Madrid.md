@@ -8,3 +8,7 @@ Nos gustaría conocer como podemos explotar datos de distinto tipo para la comun
 * Datos relacionados: https://datos.madrid.es/sites/v/index.jsp?vgnextoid=255e0ff725b93410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD
 
 Seguro que además de esto podemos encontrar datos relativos a renta per cápita en distintas regiones de la ciudad, actividades planteadas en la agenda de eventos,... la imaginación al poder!
+
+# Open data bizkaia
+
+* https://www.opendatabizkaia.eus/es/
